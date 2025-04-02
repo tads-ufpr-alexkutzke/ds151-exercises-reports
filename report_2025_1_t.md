@@ -1,11 +1,11 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Wed Apr  2 16:06:31 -03 2025
+- **Última atualização**: Wed Apr  2 17:10:17 -03 2025
 
 |Nome| ds151-kotlin-assignment<br>2025-03-27|
 |----| :---:|
-|ALIRES_DOMENIQUE_MOREIRA_ROSA|  Fork não encontrado |
+|ALIRES_DOMENIQUE_MOREIRA_ROSA|  ok |
 |BRUNO_BRUGNEROTTO_DE_LARA|  Fork não encontrado |
 |CAROLINA_RAFAELA_GONCALVES_MILANO|  ok |
 |DIOGO_HIROSHI_INOUE|  ok |
