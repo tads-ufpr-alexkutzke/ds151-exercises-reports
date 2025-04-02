@@ -1,13 +1,13 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Tue Apr  1 10:43:37 -03 2025
+- **Última atualização**: Wed Apr  2 16:06:31 -03 2025
 
 |Nome| ds151-kotlin-assignment<br>2025-03-27|
 |----| :---:|
 |ALIRES_DOMENIQUE_MOREIRA_ROSA|  Fork não encontrado |
 |BRUNO_BRUGNEROTTO_DE_LARA|  Fork não encontrado |
-|CAROLINA_RAFAELA_GONCALVES_MILANO|  Fork não encontrado |
+|CAROLINA_RAFAELA_GONCALVES_MILANO|  ok |
 |DIOGO_HIROSHI_INOUE|  ok |
 |FELIPE_FILLA_VITORINO|  Fork não encontrado |
 |GABRIEL_FRANCELINO_VOIDALESKI|  Fork não encontrado |
@@ -26,7 +26,7 @@
 |JULIO_MITSUJI_YAMAGUCHI_LIMEIRA|  Fork não encontrado |
 |LUAN_PINHEIRO_MARQUETTI|  ok |
 |LUCCA_HAJ_MUSSI_CHELLA_PARANHOS_SILVA|  ok |
-|LYANDRA_CHRISTINA_SHAYENE_LISBOA_DO_AMARAL|  Fork não encontrado |
+|LYANDRA_CHRISTINA_SHAYENE_LISBOA_DO_AMARAL|  ok |
 |MARCELO_BATISTA_DA_LUZ_JUNIOR|  Fork, mas nenhum commit até data de entrega|
 |MELISE_LUCIANA_DE_LIMA_SEABRA|  ok |
 |PEDRO_HENRIQUE_LOPES|  ok |
