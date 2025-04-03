@@ -1,7 +1,7 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Wed Apr  2 17:10:17 -03 2025
+- **Última atualização**: Thu Apr  3 14:30:07 -03 2025
 
 |Nome| ds151-kotlin-assignment<br>2025-03-27|
 |----| :---:|
@@ -21,7 +21,7 @@
 |JOAO_PEDRO_ABREU|  ok |
 |JOAO_PEDRO_COSTA_GUERIOS|  ok |
 |JOELINTON_DORTE|  ok |
-|JOYCE_ADRIANA_BORECKI|  Fork não encontrado |
+|JOYCE_ADRIANA_BORECKI|  Fork, mas nenhum commit até data de entrega|
 |JULIANO_DA_SILVA_FILHO|  ok |
 |JULIO_MITSUJI_YAMAGUCHI_LIMEIRA|  Fork não encontrado |
 |LUAN_PINHEIRO_MARQUETTI|  ok |
@@ -32,7 +32,7 @@
 |PEDRO_HENRIQUE_LOPES|  ok |
 |TIAGO_FRANCISCHINI|  ok |
 |VICTOR_ALCANTARA_MENEZES_MOTA|  ok |
-|VICTORIA_ISABELE_CORBOLIN_MONTE|  Fork não encontrado |
+|VICTORIA_ISABELE_CORBOLIN_MONTE|  Fork, mas nenhum commit até data de entrega|
 |VITOR_HIGEN_MARES_DE_SOUZA|  Fork não encontrado |
 |WESLEY_PARASTCHUK|  ok |
 |YASMIM_ZEDELINSKI_BELAO_RODRIGUES|  ok |
