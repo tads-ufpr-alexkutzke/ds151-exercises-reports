@@ -1,7 +1,7 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Thu Apr  3 14:30:07 -03 2025
+- **Última atualização**: Wed Apr  9 09:24:39 -03 2025
 
 |Nome| ds151-kotlin-assignment<br>2025-03-27|
 |----| :---:|
