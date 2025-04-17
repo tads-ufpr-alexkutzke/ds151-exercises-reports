@@ -1,7 +1,7 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Wed Apr 16 10:57:07 -03 2025
+- **Última atualização**: Thu Apr 17 10:45:12 -03 2025
 
 |Nome| ds151-kotlin-assignment<br>2025-03-27| ds151-tic-tac-toe-assignment<br>2025-03-16|
 |----| :---:| :---:|
