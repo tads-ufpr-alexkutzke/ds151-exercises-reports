@@ -1,7 +1,7 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Wed Apr 23 18:56:33 -03 2025
+- **Última atualização**: Tue Apr 29 18:22:28 -03 2025
 
 |Nome| ds151-kotlin-assignment<br>2025-03-27| ds151-tic-tac-toe-assignment<br>2025-03-16| ds151-movies-app-assignment<br>2025-03-23|
 |----| :---:| :---:| :---:|
@@ -31,7 +31,7 @@
 |MELISE_LUCIANA_DE_LIMA_SEABRA|  ok |  ok |  Fork não encontrado |
 |PEDRO_HENRIQUE_LOPES|  ok |  ok |  Fork, mas nenhum commit até data de entrega|
 |TIAGO_FRANCISCHINI|  ok |  Fork, mas nenhum commit até data de entrega|  ok |
-|VICTOR_ALCANTARA_MENEZES_MOTA|  Fork não encontrado |  ok |  ok |
+|VICTOR_ALCANTARA_MENEZES_MOTA|  ok |  ok |  ok |
 |VICTORIA_ISABELE_CORBOLIN_MONTE|  Fork, mas nenhum commit até data de entrega|  ok |  ok |
 |VITOR_HIGEN_MARES_DE_SOUZA|  Fork não encontrado |  ok |  Fork não encontrado |
 |WESLEY_PARASTCHUK|  ok |  ok |  ok |
