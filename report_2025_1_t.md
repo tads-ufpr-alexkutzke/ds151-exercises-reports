@@ -1,15 +1,15 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds151-2025-1-t
-- **Última atualização**: Thu May 15 17:24:02 -03 2025
+- **Última atualização**: Thu May 15 17:37:25 -03 2025
 
-|Nome| ds151-kotlin-assignment<br>2025-03-27| ds151-tic-tac-toe-assignment<br>2025-03-16| ds151-movies-app-assignment<br>2025-03-23| ds151-movies-app-room-assignment<br>2025-03-23|
+|Nome| ds151-kotlin-assignment<br>2025-03-27| ds151-tic-tac-toe-assignment<br>2025-03-16| ds151-movies-app-assignment<br>2025-03-23| ds151-movies-app-room-assignment<br>2025-05-14|
 |----| :---:| :---:| :---:| :---:|
 |ALIRES_DOMENIQUE_MOREIRA_ROSA|  ok |  Fork não encontrado |  ok |  ok |
 |BRUNO_BRUGNEROTTO_DE_LARA|  Fork não encontrado |  Fork não encontrado |  ok |  Fork não encontrado |
 |CAROLINA_RAFAELA_GONCALVES_MILANO|  ok |  ok |  ok |  ok |
 |DIOGO_HIROSHI_INOUE|  ok |  ok |  ok |  Fork não encontrado |
-|FELIPE_FILLA_VITORINO|  Fork não encontrado |  Fork não encontrado |  Fork não encontrado |  Fork não encontrado |
+|FELIPE_FILLA_VITORINO|  ok |  ok |  ok |  Fork não encontrado |
 |GABRIEL_FRANCELINO_VOIDALESKI|  Fork não encontrado |  ok |  ok |  ok |
 |GABRIEL_HENRIQUE_SPERANCETA|  Fork não encontrado |  ok |  ok |  ok |
 |GABRIELA_MORAIS_GANDINE|  Fork não encontrado |  Fork, mas nenhum commit até data de entrega|  Fork não encontrado |  ok |
@@ -27,8 +27,8 @@
 |LUAN_PINHEIRO_MARQUETTI|  ok |  Fork não encontrado |  ok |  Fork não encontrado |
 |LUCCA_HAJ_MUSSI_CHELLA_PARANHOS_SILVA|  ok |  ok |  ok |  ok |
 |LYANDRA_CHRISTINA_SHAYENE_LISBOA_DO_AMARAL|  ok |  ok |  ok |  ok |
-|MARCELO_BATISTA_DA_LUZ_JUNIOR|  Fork, mas nenhum commit até data de entrega|  ok |  ok |  Fork não encontrado |
-|MELISE_LUCIANA_DE_LIMA_SEABRA|  ok |  ok |  Fork não encontrado |  ok |
+|MARCELO_BATISTA_DA_LUZ_JUNIOR|  Fork, mas nenhum commit até data de entrega|  Fork não encontrado |  ok |  Fork não encontrado |
+|MELISE_LUCIANA_DE_LIMA_SEABRA|  ok |  ok |  ok |  ok |
 |PEDRO_HENRIQUE_LOPES|  ok |  ok |  Fork, mas nenhum commit até data de entrega|  Fork não encontrado |
 |TIAGO_FRANCISCHINI|  ok |  Fork, mas nenhum commit até data de entrega|  ok |  Fork não encontrado |
 |VICTOR_ALCANTARA_MENEZES_MOTA|  ok |  ok |  ok |  ok |
